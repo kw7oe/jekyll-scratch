@@ -1,5 +1,5 @@
 # Jekyll from scratch
-This repository serve as a minimal boilerplate for `jekyll` project _(without any theme)_. It contains the basic files you need for a static website. 
+This repository serve as a minimal boilerplate for `jekyll` project _(without any theme)_. It contains the basic files you need for a static website.
 
 **It contains files such as:**
 
@@ -33,3 +33,9 @@ jekyll serve
 ```
 
 5. Visit [http://localhost:4000](http://localhost:4000)
+6. You should be able to see something like:
+```
+   Header
+Hello World
+   Footer
+```
