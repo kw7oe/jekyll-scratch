@@ -39,3 +39,8 @@ jekyll serve
 Hello World
    Footer
 ```
+
+#### Lastly, remember to change the remote url for the repository:
+```
+git remote set-url origin <your-remote-url>
+```
